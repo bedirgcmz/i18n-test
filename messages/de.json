@@ -1,0 +1,23 @@
+{
+  "home": {
+    "title": "Startseite",
+    "description": "Dies ist die Startseite der Website."
+  },
+  "contact": {
+    "title": "Kontakt",
+    "description": "Füllen Sie das untenstehende Formular aus, um uns zu erreichen.",
+    "name": "Name",
+    "email": "E-Mail",
+    "message": "Nachricht",
+    "sendMessage": "Nachricht senden",
+    "messageSent": "Ihre Nachricht wurde gesendet!"
+  },
+  "about": {
+    "title": "über uns"
+  },
+  "common": {
+    "home": "Startseite",
+    "about": "Über",
+    "contact": "Kontakt"
+  }
+}

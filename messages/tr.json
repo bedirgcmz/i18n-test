@@ -1,0 +1,23 @@
+{
+  "home": {
+    "title": "Ana Sayfa",
+    "description": "Bu web sitesinin ana sayfasıdır."
+  },
+  "contact": {
+    "title": "İletişim",
+    "description": "Bize ulaşmak için aşağıdaki formu doldurun.",
+    "name": "İsim",
+    "email": "E-posta",
+    "message": "Mesaj",
+    "sendMessage": "Gönder",
+    "messageSent": "Mesajınız gönderildi!"
+  },
+  "about": {
+    "title": "Hakkimizda"
+  },
+  "common": {
+    "home": "Ana Sayfa",
+    "about": "Hakkında",
+    "contact": "İletişim"
+  }
+}

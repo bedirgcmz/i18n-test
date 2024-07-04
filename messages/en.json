@@ -1,0 +1,23 @@
+{
+  "home": {
+    "title": "Home",
+    "description": "This is the homepage of the website."
+  },
+  "contact": {
+    "title": "Contact",
+    "description": "Fill out the form below to reach us.",
+    "name": "Name",
+    "email": "Email",
+    "message": "Message",
+    "sendMessage": "Send Message",
+    "messageSent": "Your message has been sent!"
+  },
+  "about": {
+    "title": "About"
+  },
+  "common": {
+    "home": "Home",
+    "about": "About",
+    "contact": "Contact"
+  }
+}

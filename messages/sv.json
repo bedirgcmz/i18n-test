@@ -1,0 +1,23 @@
+{
+  "home": {
+    "title": "Hem",
+    "description": "Den her hem page."
+  },
+  "contact": {
+    "title": "Kontakt",
+    "description": "For den her.",
+    "name": "Nom",
+    "email": "E-mail",
+    "message": "Message",
+    "sendMessage": "Envoyer le message",
+    "messageSent": "Votre message a été envoyé!"
+  },
+  "about": {
+    "title": "Om Oss"
+  },
+  "common": {
+    "home": "Hem",
+    "about": "Om Oss",
+    "contact": "Kontakt"
+  }
+}
